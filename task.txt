@@ -1,0 +1,7 @@
+1. What is the Node.js Event Loop? (0.5 Grade) 
+:- Event loop it is  what allows Node.js to perform non-blocking I/O operations and depend on 3 main parts  1- time operation 2-osoperation 3-longTerm operation 
+it like  this while (time operation.length   ||  osoperation.length||  longTermOperation.length){
+بمعني اصح لو اي عمليه من دول ليها قيمه كدا يعتبر  الشرط كله متحققش ف بتالي الكود مش هيتنفذ  
+}	
+
+
